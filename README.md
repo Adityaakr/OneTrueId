@@ -30,6 +30,7 @@
 - Solidity
 - Hardhat
 - Chainlink VRF
+- MorphL2
 - IPFS
 
 ## <a name="features">🔋 Features</a>
