@@ -1,10 +1,4 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=OpL5Q7Zc7qk" target="_blank">
-      <img src="https://i.postimg.cc/26LnpVqZ/test1-copy.jpg" alt="Project Banner">
-    </a>
-  
-  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
@@ -28,16 +22,6 @@
 5. 🕸️ [Smart Contract Overview](#smart-contract-overview)
 6. 🖼️ [Storing Images on IPFS](#storing-images-on-ipfs)
 7. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@albertmends/videos" target="_blank"><b>Code with Albert</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-## <a name="introduction">🤖 Introduction</a>
-
-The current digital identity landscape is often fragmented and insecure, making it challenging for users to manage and verify their identities across different platforms. identiFi was inspired by the potential of blockchain technology to create a unified, secure, and verifiable digital identity solution that empowers users to manage their identities seamlessly.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -134,13 +118,11 @@ User images are uploaded and stored on IPFS. This ensures that images are stored
 
 For more information and additional resources, check out our YouTube channel and join our Discord community for support and discussions.
 
-We welcome contributions to identiFi! To contribute, please follow these steps:
+We welcome contributions to OneTrueId! To contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them.
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 # eth-id
