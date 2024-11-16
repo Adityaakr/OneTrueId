@@ -12,8 +12,8 @@ const morph = defineChain({
   network: "Morph",
   nativeCurrency: {
     decimals: 18,
-    name: "BitTorrent Chain Donau",
-    symbol: "BTTC",
+    name: "Morph",
+    symbol: "ETH",
   },
   rpcUrls: {
     default: {
