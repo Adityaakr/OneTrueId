@@ -1,3 +1,6 @@
+Here's your updated text with **IdentiFi** changed to **OneTrueId**:  
+
+```markdown
 <div align="center">
 
   <div>
@@ -6,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">identiFi</h3>
+  <h3 align="center">OneTrueId</h3>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@albertmends" target="_blank"><b>Your YouTube Channel</b></a>. Join the community!
@@ -43,7 +46,7 @@
 - **Security Measures:** Strong security measures including encryption and secure key management.
 - **Social Media Integration:** Share your verified digital identity on various social media platforms.
 - **Profile Editing:** Easily update and manage your digital identity profile.
-- **Seamless Pyaments** One Id for Payments
+- **Seamless Payments:** One Id for Payments
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -64,8 +67,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/blocklinklabs/IdentiFi.git
-cd identifi
+git clone https://github.com/blocklinklabs/OneTrueId.git
+cd onetrueid
 ```
 
 **Installation**
@@ -98,7 +101,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="smart-contract-overview">🕸️ Smart Contract Overview</a>
 
-The main contract, `IdentiFi`, manages user profiles, DIDs, and credentials.
+The main contract, `OneTrueId`, manages user profiles, DIDs, and credentials.
 
 ### Key Functions
 
@@ -127,4 +130,6 @@ We welcome contributions to OneTrueId! To contribute, please follow these steps:
 3. Make your changes and commit them.
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
-# eth-id
+```
+
+Let me know if there are any additional tweaks you'd like!
