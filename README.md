@@ -1,5 +1,3 @@
-Here's your updated text with **IdentiFi** changed to **OneTrueId**:  
-
 ```markdown
 <div align="center">
 
@@ -11,12 +9,12 @@ Here's your updated text with **IdentiFi** changed to **OneTrueId**:
 
   <h3 align="center">OneTrueId</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@albertmends" target="_blank"><b>Your YouTube Channel</b></a>. Join the community!
-    </div>
+  <div align="center">
+    Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@albertmends" target="_blank"><b>Your YouTube Channel</b></a>. Join the community!
+  </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## 📋 Table of Contents
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
@@ -26,7 +24,7 @@ Here's your updated text with **IdentiFi** changed to **OneTrueId**:
 6. 🖼️ [Storing Images on IPFS](#storing-images-on-ipfs)
 7. 🚀 [More](#more)
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## ⚙️ Tech Stack
 
 - Next.js
 - TypeScript
@@ -36,7 +34,7 @@ Here's your updated text with **IdentiFi** changed to **OneTrueId**:
 - MorphL2
 - IPFS
 
-## <a name="features">🔋 Features</a>
+## 🔋 Features
 
 - **Decentralized Identifiers (DIDs):** Create and manage unique DIDs on the blockchain.
 - **Identity Verification:** Submit identity documents for verification by trusted third parties.
@@ -46,13 +44,13 @@ Here's your updated text with **IdentiFi** changed to **OneTrueId**:
 - **Security Measures:** Strong security measures including encryption and secure key management.
 - **Social Media Integration:** Share your verified digital identity on various social media platforms.
 - **Profile Editing:** Easily update and manage your digital identity profile.
-- **Seamless Payments:** One Id for Payments
+- **Seamless Payments:** One ID for Payments.
 
-## <a name="quick-start">🤸 Quick Start</a>
+## 🤸 Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
-**Prerequisites**
+### Prerequisites
 
 Make sure you have the following installed on your machine:
 
@@ -64,14 +62,14 @@ Make sure you have the following installed on your machine:
 - Chainlink VRF setup
 - IPFS setup
 
-**Cloning the Repository**
+### Cloning the Repository
 
 ```bash
 git clone https://github.com/blocklinklabs/OneTrueId.git
 cd onetrueid
 ```
 
-**Installation**
+### Installation
 
 Install the project dependencies using npm:
 
@@ -79,19 +77,19 @@ Install the project dependencies using npm:
 npm install
 ```
 
-**Compile the Contracts**
+### Compile the Contracts
 
 ```bash
 npx hardhat compile
 ```
 
-**Deploy the Contracts**
+### Deploy the Contracts
 
 ```bash
 npx hardhat run scripts/deploy.js --network yourNetwork
 ```
 
-**Run the Development Server**
+### Run the Development Server
 
 ```bash
 npm start
@@ -99,7 +97,7 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="smart-contract-overview">🕸️ Smart Contract Overview</a>
+## 🕸️ Smart Contract Overview
 
 The main contract, `OneTrueId`, manages user profiles, DIDs, and credentials.
 
@@ -115,11 +113,11 @@ The main contract, `OneTrueId`, manages user profiles, DIDs, and credentials.
 - **getVisibility:** Gets visibility preferences for user profile information.
 - **batchCreateUsers:** Batch creates multiple user profiles using Monobean.
 
-## <a name="storing-images-on-ipfs">🖼️ Storing Images on IPFS</a>
+## 🖼️ Storing Images on IPFS
 
 User images are uploaded and stored on IPFS. This ensures that images are stored in a decentralized manner, enhancing security and accessibility.
 
-## <a name="more">🚀 More</a>
+## 🚀 More
 
 For more information and additional resources, check out our YouTube channel and join our Discord community for support and discussions.
 
@@ -132,4 +130,4 @@ We welcome contributions to OneTrueId! To contribute, please follow these steps:
 5. Submit a pull request to the main repository.
 ```
 
-Let me know if there are any additional tweaks you'd like!
+You can directly copy and paste this into your GitHub README file. Let me know if you need further adjustments!
