@@ -43,6 +43,7 @@
 - **Security Measures:** Strong security measures including encryption and secure key management.
 - **Social Media Integration:** Share your verified digital identity on various social media platforms.
 - **Profile Editing:** Easily update and manage your digital identity profile.
+- **Seamless Pyaments** One Id for Payments
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
