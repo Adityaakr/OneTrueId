@@ -19,9 +19,6 @@ The convergence of DeFi, NFTs, and tokenized RWAs has created untapped synergy. 
 C-DAE solves these gaps by being the bridge that connects and enhances asset interoperability.
 
 ---
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5ff87c26-d121-4809-b3ba-460c62b9e610/716d6ea1-71ef-45c8-ab6d-9437a477960b/image.png)
-
 ### Key Features (Now Enhanced)
 
 ### 1️⃣ Dynamic Asset Composition (DAC)
@@ -57,8 +54,6 @@ C-DAE solves these gaps by being the bridge that connects and enhances asset int
 ---
 
 ### Real-World Use Cases (Enhanced)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5ff87c26-d121-4809-b3ba-460c62b9e610/384b4ce1-e6e0-48ab-a4b5-032a058d5402/image.png)
 
 ### 🪙 NFT-Backed Stablecoins
 
@@ -119,8 +114,6 @@ C-DAE solves these gaps by being the bridge that connects and enhances asset int
 
 ### Monetization Strategy
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5ff87c26-d121-4809-b3ba-460c62b9e610/a24719b3-370a-48d4-ac07-e6fe3f15f5a3/image.png)
-
 ### 1️⃣ Transaction Fees
 
 - Charge fees for creating, trading, and managing custom compositions.
@@ -140,8 +133,6 @@ C-DAE solves these gaps by being the bridge that connects and enhances asset int
 ---
 
 ### Market Potential
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5ff87c26-d121-4809-b3ba-460c62b9e610/50f21c43-b6e7-4e57-ba64-3da3ba8dfaad/image.png)
 
 - DeFi TAM (2025): $231 billion+
 - Tokenized RWAs (2030): $16 trillion+ (source: Boston Consulting Group)
